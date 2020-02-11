@@ -37,4 +37,4 @@ for occ in lobby["registre"]:
 lobby = open(lobby,"a")
 relob = csv.writer(lobby)
 relob.writerow(lobby)
-# J'ai fais mon gros possible!
+# J'ai fait mon gros possible!
